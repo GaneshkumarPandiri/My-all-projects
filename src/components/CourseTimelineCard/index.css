@@ -1,0 +1,32 @@
+.date-num {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title-content-course {
+  display: flex;
+  justify-content: space-evenly;
+}
+.list-item {
+  list-style-type: none;
+  padding: 10px;
+  background-color: #0967d2;
+  color: #ffffff;
+  font-family: roboto;
+  border-radius: 5px;
+  margin: 3px;
+}
+.all-list-items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.course-container {
+  display: flex;
+  flex-direction: column;
+  font-family: roboto;
+  padding: 20px;
+}
+.title-date-container {
+  display: flex;
+  justify-content: space-between;
+}
